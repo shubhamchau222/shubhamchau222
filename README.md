@@ -12,3 +12,8 @@
 -  :pushpin: Interested In : :robot: , Computer Vision & Data Science
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchau222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Shubham GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamchau222&show_icons=true&theme=radical)
+
+

@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola , I'm Shubham Chaudhari 👋
+- Location :india:
+- 🔭 I’m currently working on Machine Leraning and Object Detection.
+- 🌱 I’m currently learning Ml & DL
+- 👯 I’m looking to collaborate on Yot
+- 🤔 I’m looking for an Internship in Machine Learning & Deep learning.
+- 💬 Ask me about Machine Learning Algorithms & Statistics.
+- 📫 How to reach me: shubhamchau78@gmail.com
+- ⚡ Find me on Linkedin: [@shubhamchau78](https://www.linkedin.com/in/shubham-chaudhari-3a7270176)
 
-<!--
-**shubhamchau222/shubhamchau222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡Experience : worked on Various plc (programmable Logic Controllers) , relays and Sensors .
+- Interested In : :robot: , Computer Vision & Data Science
 -->

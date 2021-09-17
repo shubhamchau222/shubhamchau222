@@ -1,4 +1,4 @@
-### Hola , I'm Shubham Chaudhari ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Hi , I'm Shubham Chaudhary ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 
 
@@ -29,6 +29,14 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
  <a href="https://tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1024px-TensorFlowLogo.svg.png" alt="tensorflow" width="40" height="40"/> </a> 
   
+ <a href="https://www.aws.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/225px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="40" height="40"/> </a> 
+  <a href="https://www.heroku.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/1920px-Heroku_logo.svg.png" alt="HEROKU" width="40" height="40"/> </a> 
+ 
+ 
+ 
+ 
+ 
+
  
 
   

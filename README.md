@@ -1,7 +1,7 @@
 ### Hola , I'm Shubham Chaudhari ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-
-## About me<img src="https://www.isical.ac.in/~cvpr/ICDARWML21/images/deepLearning.gif" width="50">
+ <img align="right" alt="GIF" src="https://www.isical.ac.in/~cvpr/ICDARWML21/images/deepLearning.gif" width="500" height="320" />
+## About me<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ------------------------------------------------------------------------------------------------------------------------------
 

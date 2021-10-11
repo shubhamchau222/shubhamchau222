@@ -31,6 +31,7 @@
   
  <a href="https://www.aws.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/225px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="40" height="40"/> </a> 
   <a href="https://www.heroku.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/1920px-Heroku_logo.svg.png" alt="HEROKU" width="40" height="40"/> </a> 
+   <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/225px-Git-logo.svg.png" alt="GIT" width="40" height="40"/> </a> 
  
  
  

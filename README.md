@@ -10,7 +10,7 @@
 ------------------------------------------------------------------------------------------------------------------------------
 
 - Location 	:arrow_right: :india:
-- :computer: I’m currently working on Machine Leraning and Object Detection.
+
 - :blue_book: I’m currently learning Ml & DL
 - 💬 Ask me about Machine Learning Algorithms & Statistics.
 - 📧 How to reach me: shubhamchau78@gmail.com
